@@ -1,3 +1,3 @@
--- Job 7 : Sauvegarde de la base de donnees
+-- Sauvegarde de la base de donnees
 -- Commande executee dans le terminal :
 -- mysqldump -u root -p laplateforme > laplateforme.sql

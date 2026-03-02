@@ -1,4 +1,4 @@
--- Job 5 : Ajout des etudiants dans la table
+-- Ajout des etudiants dans la table
 INSERT INTO etudiants (nom, prenom, age, email) VALUES 
 ('Spaghetti', 'Betty', 23, 'betty.Spaghetti@laplateforme.io'), 
 ('Steak', 'Chuck', 45, 'chuck.steak@laplateforme.io'), 
